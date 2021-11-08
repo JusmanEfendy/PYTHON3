@@ -76,7 +76,9 @@
 
 4. PERULANGAN WHILE 
 
-    Sebuah bagian code yang tugasnya berjalan berulang - ulang, sampe kondisinya tidak memenuhi makan perulangannya berhenti
+    Sebuah bagian code yang tugasnya berjalan berulang - ulang, sampe kondisinya tidak memenuhi maka perulangannya berhenti
+    
+    
 
 
 
