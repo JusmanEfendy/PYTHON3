@@ -60,7 +60,23 @@
     - berikut contohnya 
 
     ![Annotation 2021-11-08 043202](https://user-images.githubusercontent.com/92988781/140742684-b489634b-f459-4ebd-aa23-2ade5321d68a.png)
+     
+    - false or true = true
+    - true or false = true
+    - true and false = false
+    - false and true = false
+    - true and true = true
+    - false and false = false
+    - NOTE : salah satu true di or maka hasilnya true
+             salah satu false di and maka hasilnya false
+    
 
+
+
+
+4. PERULANGAN WHILE 
+
+    Sebuah bagian code yang tugasnya berjalan berulang - ulang, sampe kondisinya tidak memenuhi makan perulangannya berhenti
 
 
 
