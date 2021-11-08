@@ -78,6 +78,65 @@
 
     Sebuah bagian code yang tugasnya berjalan berulang - ulang, sampe kondisinya tidak memenuhi maka perulangannya berhenti
     
+    - contohnya seperti ini
+
+    ![Annotation 2021-11-08 052219](https://user-images.githubusercontent.com/92988781/140750664-cb215490-7348-4ee9-9179-d871dfc5af0a.png)
+    
+    - lihat penjelasan di atas
+   
+   
+
+5. GAME TEBAK ANGKA
+
+    perulangan menggunakan while dan kondisi menggunakan if.
+    
+    - source code nya seperti ini ala-ala saya
+
+    ![Annotation 2021-11-08 061316](https://user-images.githubusercontent.com/92988781/140757174-8f7b7eef-2fa6-43dd-a569-49961277e9d3.png)
+    
+    
+    - output jika tebakan salah 
+
+    ![Annotation 2021-11-08 061612](https://user-images.githubusercontent.com/92988781/140757879-5bcb3c24-e37a-4efe-9d9f-937c2b3883f5.png)
+    
+    
+    - output jika tebakan anda benar
+
+    ![Annotation 2021-11-08 061906](https://user-images.githubusercontent.com/92988781/140758112-dddcd848-f442-41c7-a9e9-639499f1bcaf.png)
+    
+    - selamat bermain !!!
+
+
+
+6. APLIKASI KALKULATOR
+
+    Kita akan membuat kalkulator sederhana menggunakan python
+    
+    - source code 
+
+    ![Annotation 2021-11-08 065626](https://user-images.githubusercontent.com/92988781/140764684-ffe7c9a0-5b88-4f1e-8bb3-380bb33a506d.png)
+    
+    - output 
+
+    ![Annotation 2021-11-08 065933](https://user-images.githubusercontent.com/92988781/140765450-734b9ba2-ba64-4555-ae00-5e84a2ef6fca.png)
+    
+    - output (salah)
+
+    ![Annotation 2021-11-08 070024](https://user-images.githubusercontent.com/92988781/140765493-2f220290-cc34-4556-be3f-f5d81f432906.png)
+    
+    - output (keluar / exit)
+
+    ![Annotation 2021-11-08 070058](https://user-images.githubusercontent.com/92988781/140765633-c906960e-4862-488c-b27d-6ae546bcd378.png)
+
+
+
+- SELESAI 
+- MAAF JIKA ADA KESALAHAN. 
+
+
+
+
+    
     
 
 
